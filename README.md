@@ -14,13 +14,13 @@ A $\LaTeX$ essay template in APA7 style for UCL PALS Course Essays
 
 ## How To Use
 
-You could use [overleaf](https://www.overleaf.com/) to edit online.
+You could use [overleaf](https://www.overleaf.com/) to edit online. Download `Source Code (zip)` from [release](https://github.com/Rui-Alexander-Sun/UCL-PALS-Essay-Template-APA7/releases).
 
 1. Sign in Your Overleaf Account
-2. "New Project" → "Upload Project"
+2. `New Project` → `Upload Project`
 3. Select the zip you downloaded before
-4. "Menu" → "Settings" → "Compiler", choose "XeLaTeX"
-5. Choose "main.tex" file, click "compile"
+4. `Menu` → `Settings` → `Compiler`, choose `XeLaTeX`
+5. Choose `main.tex` file, click `compile`
 
 ## Acknowledgement
 
@@ -28,4 +28,4 @@ I first learned about $\LaTeX$ when I was in my senior year and busy preparing m
 
 ## Feedback & Improvement
 
-As I am still learning about both $\LaTeX$ and Github, there may be a lot of errors and shortcomings in these files. If anything goes wrong or more features required, please report in "Issues" or [email me](mailto:r.sun.22@ucl.ac.uk) directly.
+As I am still learning about both $\LaTeX$ and Github, there may be a lot of errors and shortcomings in these files. If anything goes wrong or more features required, please report in `Issues` or [email me](mailto:r.sun.22@ucl.ac.uk) directly.

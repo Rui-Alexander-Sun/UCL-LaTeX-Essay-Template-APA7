@@ -5,7 +5,7 @@ A $\LaTeX$ essay template in APA7 style for UCL PALS Course Essays
 ## Format
 
 1. Paper: A4 Paper
-2. Margin: 1 inch each side
+2. Margins: 1 inch each side
 3. Font: Times New Roman
 4. Font Size: 12pt
 5. Indent: First line indented by 0.5 inch

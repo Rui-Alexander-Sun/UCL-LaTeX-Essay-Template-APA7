@@ -20,7 +20,7 @@ You could use [overleaf](https://www.overleaf.com/) to edit online. Download `So
 2. `New Project` → `Upload Project`
 3. Select the zip you downloaded before
 4. `Menu` → `Settings` → `Compiler`, choose `XeLaTeX`
-5. Choose `main.tex` file, click `compile`
+5. Choose `main.tex` file, then click `compile`
 
 ## Acknowledgement
 

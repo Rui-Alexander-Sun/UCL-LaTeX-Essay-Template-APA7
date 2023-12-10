@@ -24,7 +24,7 @@ You could use [overleaf](https://www.overleaf.com/) to edit online. Download `So
 
 ## Acknowledgement
 
-I first learned about $\LaTeX$ when I was in my senior year and busy preparing my resume for master application. I was fascinated by its magic and decided to apply it to my undergraduate thesis. Surprisingly, I found that there has been a very exquisite template on Github for undergraduates from Sun Yat-sen University, compared to which, what I have done just look like the simpliest stick figure drawn by a preschooler to kill time in a tedious afternoon. Mank thanks to [sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis) for not only the template itself, but also the knwoledge about $\LaTeX$ and Github I have gained from it.
+I first learned about $\LaTeX$ when I was in my senior year and busy preparing my resume for master application. I was fascinated by its magic and decided to apply it to my undergraduate thesis. Surprisingly, I found that there has been a very exquisite template on Github for undergraduates from Sun Yat-sen University, compared to which, what I have done just looks like the simpliest stick figure drawn by a preschooler to kill time in a tedious afternoon. Mank thanks to [sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis) for not only the template itself, but also the knwoledge about $\LaTeX$ and Github I have gained from it.
 
 ## Feedback & Improvement
 

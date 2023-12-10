@@ -14,7 +14,7 @@ A $\LaTeX$ essay template in APA7 style for UCL PALS Course Essays
 
 ## How To Use
 
-You could use [overleaf](https://www.overleaf.com/) to edit online. Download `Source Code (zip)` from [releases](https://github.com/Rui-Alexander-Sun/UCL-PALS-Essay-Template-APA7/releases).
+You could use [overleaf](https://www.overleaf.com/) to edit online. Download `Source Code (zip)` from [releases](https://github.com/Rui-Alexander-Sun/UCL-PALS-Essay-Template-APA7/releases) first.
 
 1. Sign in Your Overleaf Account
 2. `New Project` → `Upload Project`

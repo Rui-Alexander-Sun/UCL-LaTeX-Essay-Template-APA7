@@ -1,1 +1,1 @@
-# UCL-PALS-Essay-Template-APA7
+# UCL-PALS-Essay-Template-APA7 $\LaTeX$

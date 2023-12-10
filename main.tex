@@ -1,0 +1,32 @@
+%%
+% Author: Rui Sun
+% Mailto: r.sun.22@ucl.ac.uk
+% Update Date: 10 Dec 2023
+%%
+
+\documentclass[12pt]{APA7}
+
+% Use Times New Roman
+\setmainfont{Times New Roman}
+% Indent the first line of a new paragraph by 0.5 inches
+\setlength{\parindent}{0.5in}
+
+\input{docs/info}
+
+\begin{document}
+
+% Cover of your essay
+\makecover
+
+\pagenumbering{arabic}
+
+% Use essay.tex if you are writing a course essay
+\include{docs/essay}
+
+% Use report.tex if you are writing a lab report
+% \include{docs/report} 
+
+% References
+\printbibliography
+
+\end{document}

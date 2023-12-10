@@ -1,4 +1,4 @@
-# UCL-PALS-Essay-Template-APA7 $\LaTeX$
+# UCL PALS Essay $\LaTeX$ Template 
 
 A $\LaTeX$ essay template in APA7 style for UCL PALS Course Essays
 

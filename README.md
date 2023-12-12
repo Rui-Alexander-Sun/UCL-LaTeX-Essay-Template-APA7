@@ -22,7 +22,7 @@ To edit online using [overleaf](https://www.overleaf.com/), download `Source Cod
 4. `Menu` → `Settings` → `Compiler`, choose `XeLaTeX`
 5. Choose `main.tex` file, then click `compile`
 
-## Acknowledgement
+## Acknowledgements
 
 I first learned about $\LaTeX$ when I was in my senior year and busy preparing my resume for master application. I was fascinated by its magic and decided to apply it to my undergraduate thesis. Surprisingly, I found that there has been a very exquisite template ([sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis)) on Github which perfectly meets the requirements of my university. Benefiting a lot from it, I have always been eager to make my own contributions for the others. Compared to it, however, what I have done just looks like the simpliest stick figure drawn by a preschooler to kill his time in a tedious afternoon. Mank thanks to [sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis) for not only the template itself, but also the knwoledge about $\LaTeX$ and Github I have gained from it.
 

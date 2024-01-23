@@ -1,9 +1,3 @@
-%%
-% Author: Rui Sun 
-% Mailto: r.sun.22@ucl.ac.uk
-% Update Date: 10 Dec 2023
-%%
-
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{APA7}
 \LoadClass[12pt]{article}
@@ -51,15 +45,17 @@
 \newcommand\makecover{%
     \begin{titlepage}
         \centering
+        ~\\
+        ~\\
         {\fontsize{16pt}{16pt}\bfseries{\@titlefirst} \par}
         {\fontsize{16pt}{16pt}\bfseries{\@titlesecond} \par}
         {\fontsize{16pt}{16pt}\bfseries{\@titlethird} \par}
         %{\fontsize{16pt}{16pt}\bfseries{\@titlefourth} \par}
         ~\\ % blank line
-        {\fontsize{12pt}{12pt}{Module: \@modulename} \par}
-        {\fontsize{12pt}{12pt}{Module Leader: \@leader} \par}
-        {\fontsize{12pt}{12pt}{Word Count: \@wordcount} \par}
         {\fontsize{12pt}{12pt}{Candidate Number: \@candidatenumber} \par}
+        {\fontsize{12pt}{12pt}{Module: \@modulename} \par}
+        %{\fontsize{12pt}{12pt}{Module Leader: \@leader} \par}
+        %{\fontsize{12pt}{12pt}{Word Count: \@wordcount} \par}
         {\fontsize{12pt}{14pt} {\today} \par}
     \end{titlepage}
 }

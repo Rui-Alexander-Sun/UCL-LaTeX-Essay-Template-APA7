@@ -10,7 +10,7 @@ A $\LaTeX$ essay template for UCL PALS Course Essays
 4. Font Size: 12pt
 5. Indent: First line indented by 0.5 inch
 6. Spacing: Double
-7. Heading & Reference: APA7 Style
+7. Heading & References: APA7 Style
 
 ## How To Use
 

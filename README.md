@@ -1,6 +1,6 @@
 # UCL $\LaTeX$ Essay Template 
 
-A $\LaTeX$ essay template for UCL PALS Course Essays
+A $\LaTeX$ essay template for UCL PALS course essays
 
 ## Format
 

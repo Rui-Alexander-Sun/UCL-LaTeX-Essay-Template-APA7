@@ -28,4 +28,4 @@ I first learned about $\LaTeX$ when I was in my senior year and busy preparing m
 
 ## Feedback & Improvement
 
-As I am still learning both $\LaTeX$ and Github, there may be a lot of errors and shortcomings in these files. If any errors found or more features required, please report in `Issues` or [email me](mailto:r.sun.22@ucl.ac.uk) directly.
+As I am still learning both $\LaTeX$ and GitHub, there may be some errors in these files. If any errors found or more features required, please report in `Issues` or [email me](mailto:r.sun.22@ucl.ac.uk) directly.

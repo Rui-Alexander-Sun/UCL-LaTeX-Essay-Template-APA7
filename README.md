@@ -1,6 +1,6 @@
-# UCL $\LaTeX$ Essay Template 
+# UCL $\LaTeX$ Essay Template APA7
 
-A $\LaTeX$ essay template for UCL PALS module essays
+A $\LaTeX$ essay template for UCL PALS module essays in APA7 style
 
 ## Format
 
